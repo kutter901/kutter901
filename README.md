@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**kutter901/kutter901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Neuroscience | 🧬 Bioinformatics | 🖥️ Computational Modeling
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I work at the intersection of neuroscience, bioinformatics, and computational modeling. My research focuses on spatial transcriptomics, ion dynamics in neuronal excitability, and bulk RNA-seq analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Current Projects:
+Spatial Transcriptomics – Developing pipelines for data processing and analysis.
+
+Ion Dynamics in Seizures – Simulating pathofunctionality in neurons using NetLogo.
+
+Bulk RNA-Seq Analysis – Differential expression analysis, clustering, and visualization.
+
+⚙️ Skills & Tools:
+Programming: Bash, R, Python, NetLogo
+
+Bioinformatics: RNA-Seq (DESeq2, Subread), CIBERSORTx, PCA/Clustering, Random Forests
+
+Neuroscience Methods: MEA, electrophysiology, spatial transcriptomics, RNAseq
+
+📫 Reach me at: kutter901@gmail.com | [LinkedIn](https://www.linkedin.com/in/kutter-hine/)
